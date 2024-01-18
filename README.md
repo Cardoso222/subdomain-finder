@@ -11,7 +11,7 @@ A simple Python script for finding subdomains using multithreading.
 Install the required libraries using:
 
 ```bash
-pip install requests tqdm
+pip3 install requests tqdm
 ```
 
 [video](https://github.com/Cardoso222/subdomain-finder/assets/7026517/b4c7d23f-c3fc-4756-8abb-ff9f048aa570)
